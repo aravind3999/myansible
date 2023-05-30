@@ -1,0 +1,10 @@
+---
+-myfruits:
+ -mango
+ -apple
+ -orange
+
+-mystudents: 
+  -name: abhi
+  -Phone number: 12345678
+  -Address: hyderabad
